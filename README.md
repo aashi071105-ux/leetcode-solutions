@@ -8,6 +8,7 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,10 +18,12 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
 | ------- |
