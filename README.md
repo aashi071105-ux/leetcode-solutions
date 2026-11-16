@@ -40,4 +40,8 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
