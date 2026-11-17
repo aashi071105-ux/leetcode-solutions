@@ -46,6 +46,7 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | ------- |
 | [0007-reverse-integer](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
