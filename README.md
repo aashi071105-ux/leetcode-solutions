@@ -11,6 +11,7 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [3115-maximum-prime-difference](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [3115-maximum-prime-difference](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -60,4 +62,9 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [3115-maximum-prime-difference](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
