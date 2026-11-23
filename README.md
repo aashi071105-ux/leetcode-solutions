@@ -10,6 +10,7 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | [0239-sliding-window-maximum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +51,13 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | [0507-perfect-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
