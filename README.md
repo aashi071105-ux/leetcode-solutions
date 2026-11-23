@@ -6,6 +6,7 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 | [0007-reverse-integer](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -61,10 +63,24 @@ A collection of my LeetCode solutions and DSA practice problems, implemented in 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0204-count-primes) |
 | [2614-prime-in-diagonal](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0204-count-primes) |
 | [3115-maximum-prime-difference](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aashi071105-ux/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
